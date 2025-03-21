@@ -4,8 +4,8 @@ const HomeText = ({title , heading , description}) => {
             <h2 
             className='bg-white text-[#28B30F] bg-font-bold text-lg font-medium px-3 py-1 rounded-md mb-3'>
             {title}</h2>
-            <h1 className='text-5xl font-bold'>{heading}</h1>
-            <div className='text-center text-gray-500 font-medium text-lg'>
+            <h1 className='text-5xl text-center font-bold'>{heading}</h1>
+            <div className='text-center text-gray-500 font-medium '>
                 {description}
             </div>
         </div>

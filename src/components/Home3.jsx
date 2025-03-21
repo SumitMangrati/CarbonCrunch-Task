@@ -27,7 +27,7 @@ function Home3() {
           <BoxContainer />
         </div>
         <div className="px-10">
-          <div className="bg-gradient-to-b from-[#28B30F] to-white w-full p-14 pb-0 rounded-3xl rounded-b-none ">
+          <div className="bg-gradient-to-b from-[#28B30F] to-white w-full p-10 md:p-14 pb-0 rounded-3xl rounded-b-none ">
             <img
               className="object-cover w-full h-[70vh] rounded-2xl"
               src={home3}
