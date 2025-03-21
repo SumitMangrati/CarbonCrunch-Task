@@ -11,6 +11,10 @@ export default {
         'secondary':'#D5FFCF',
         'danger': '#E3342F',
       },
+      fontFamily:{
+        league:["League Spartan" , "sans-serif"],
+        poppins:["Poppins" , "sans-serif"],
+      },
     },
   },
   plugins: [],

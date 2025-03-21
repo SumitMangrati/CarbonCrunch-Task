@@ -25,7 +25,7 @@ export default function Navbar() {
     >
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo */}
-        <h1 className="text-xl font-bold text-[#28B30F]">CarbonCrunch</h1>
+        <h1 className="text-xl font-bold text-[#28B30F] font-poppins">CarbonCrunch</h1>
 
         {/* Desktop Menu */}
         <div className="hidden md:flex space-x-6 bg-white rounded-3xl px-6 py-2">
