@@ -1,6 +1,6 @@
 import React from "react";
 import Spline from "@splinetool/react-spline";
-
+import Button from "./Button";
 function Trail() {
   return (
     <div className="relative flex items-center justify-center h-screen">
@@ -19,6 +19,7 @@ function Trail() {
           Track, minimize, offset, and report your carbon emissions effortlessly
           to drive faster decarbonization progress.
         </p>
+        <Button />
       </div>
     </div>
   );
