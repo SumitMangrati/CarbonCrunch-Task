@@ -4,8 +4,9 @@
 Here is my version of the UI for the design provided as per **CarbonCrunch**    task.
 
 ## Live Demo
--[website](https://sumitmangraticarboncrunch.netlify.app/)
--[figma-design](https://www.figma.com/design/khrKrHWrwvXCGvTUsFZjYf/Task-File---3?node-id=0-1&p=f&t=ghyssuQ5oU4uoYyI-0)
+- [3DWebsite](https://sumitmangraticarboncrunch.netlify.app/)
+- [2DWesbite](https://sumitmangraticarboncrunch.netlify.app/2d)
+- [figma-design](https://www.figma.com/design/khrKrHWrwvXCGvTUsFZjYf/Task-File---3?node-id=0-1&p=f&t=ghyssuQ5oU4uoYyI-0)
 
 ## Tech Stack
 
